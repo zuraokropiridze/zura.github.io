@@ -25,5 +25,6 @@ links:
 
 
 LinkedIn: www.linkedin.com/in/ zura-okropiridze-62a8ba3a7
+
 gmail: okropiridzezura7@gmail.com
                             
